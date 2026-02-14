@@ -1,48 +1,92 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Privacy Policy - Universe Games Studio(UGS)</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; color: #333; }
-        h1, h2 { color: #2E3A59; }
-        ul { list-style-type: disc; margin-left: 20px; }
-        p { margin-bottom: 15px; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Privacy Policy of Universe Games Studio (UGS)">
+  <title>Privacy Policy - Universe Games Studio (UGS)</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <!-- CSS -->
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1a73e8;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    h2 {
+      color: #1a73e8;
+    }
+    p {
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #eee;
+      margin-top: 30px;
+      font-size: 14px;
+      color: #555;
+    }
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-    <h1>Privacy Policy</h1>
-    <p><strong>Effective Date:</strong> 14 February 2026</p>
 
-    <p>Universe Games Studio(UGS) ("we", "our", or "us") built this application as a free application. This SERVICE is provided by Universe Games Studio(UGS) and is intended for use as is.</p>
+  <!-- Header -->
+  <header>
+    <h1>Universe Games Studio (UGS)</h1>
+    <p>Privacy Policy</p>
+  </header>
 
-    <h2>1. Information We Collect</h2>
-    <p>We do <strong>not</strong> collect, store, or share any personal information. This application:</p>
-    <ul>
-        <li>Does not use advertisements</li>
-        <li>Does not offer in-app purchases</li>
-        <li>Does not use analytics services</li>
-        <li>Does not collect personal data</li>
-    </ul>
+  <!-- Main Content -->
+  <main>
+    <h2>Introduction</h2>
+    <p>Welcome to Universe Games Studio (UGS). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our games and services.</p>
 
-    <h2>2. Permissions</h2>
-    <p>The application may request basic device permissions strictly required for normal functionality. We do not access, collect, or store private user data.</p>
+    <h2>Information We Collect</h2>
+    <p>We may collect personal information such as your email address, device information, and usage data to improve your experience.</p>
 
-    <h2>3. Children’s Privacy</h2>
-    <p>This application does not knowingly collect personally identifiable information from children under the age of 13.</p>
+    <h2>How We Use Your Information</h2>
+    <p>We use collected information to improve our games, provide support, and communicate updates.</p>
 
-    <h2>4. Third-Party Services</h2>
-    <p>This application does not integrate with any advertising, payment, analytics, or social media services.</p>
+    <h2>Data Sharing & Third Parties</h2>
+    <p>We do not sell your data. We may share information with trusted service providers to operate our games.</p>
 
-    <h2>5. Data Security</h2>
-    <p>Because we do not collect or store user data, there is no risk of personal data misuse through this application.</p>
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, you can contact us at: <a href="mailto:info@universegamesstudio.com">info@universegamesstudio.com</a></p>
+  </main>
 
-    <h2>6. Changes to This Privacy Policy</h2>
-    <p>We may update our Privacy Policy in the future. Any changes will be posted on this page with an updated effective date.</p>
+  <!-- Footer -->
+  <footer>
+    &copy; 2026 Universe Games Studio (UGS). All rights reserved.
+  </footer>
 
-    <h2>7. Contact Us</h2>
-    <p>If you have any questions or suggestions about our Privacy Policy, please contact:</p>
-    <p><strong>Universe Games Studio(UGS)g><br>
-    Email: info@universegamesstudio.com</p>
 </body>
 </html>
